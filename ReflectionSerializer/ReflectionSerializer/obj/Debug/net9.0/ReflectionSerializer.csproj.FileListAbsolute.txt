@@ -1,0 +1,16 @@
+C:\Nastya\MyProjects\reflection-serializer\ReflectionSerializer\ReflectionSerializer\bin\Debug\net9.0\ReflectionSerializer.exe
+C:\Nastya\MyProjects\reflection-serializer\ReflectionSerializer\ReflectionSerializer\bin\Debug\net9.0\ReflectionSerializer.deps.json
+C:\Nastya\MyProjects\reflection-serializer\ReflectionSerializer\ReflectionSerializer\bin\Debug\net9.0\ReflectionSerializer.runtimeconfig.json
+C:\Nastya\MyProjects\reflection-serializer\ReflectionSerializer\ReflectionSerializer\bin\Debug\net9.0\ReflectionSerializer.dll
+C:\Nastya\MyProjects\reflection-serializer\ReflectionSerializer\ReflectionSerializer\bin\Debug\net9.0\ReflectionSerializer.pdb
+C:\Nastya\MyProjects\reflection-serializer\ReflectionSerializer\ReflectionSerializer\obj\Debug\net9.0\ReflectionSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nastya\MyProjects\reflection-serializer\ReflectionSerializer\ReflectionSerializer\obj\Debug\net9.0\ReflectionSerializer.AssemblyInfoInputs.cache
+C:\Nastya\MyProjects\reflection-serializer\ReflectionSerializer\ReflectionSerializer\obj\Debug\net9.0\ReflectionSerializer.AssemblyInfo.cs
+C:\Nastya\MyProjects\reflection-serializer\ReflectionSerializer\ReflectionSerializer\obj\Debug\net9.0\ReflectionSerializer.csproj.CoreCompileInputs.cache
+C:\Nastya\MyProjects\reflection-serializer\ReflectionSerializer\ReflectionSerializer\obj\Debug\net9.0\ReflectionSerializer.sourcelink.json
+C:\Nastya\MyProjects\reflection-serializer\ReflectionSerializer\ReflectionSerializer\obj\Debug\net9.0\ReflectionSerializer.dll
+C:\Nastya\MyProjects\reflection-serializer\ReflectionSerializer\ReflectionSerializer\obj\Debug\net9.0\refint\ReflectionSerializer.dll
+C:\Nastya\MyProjects\reflection-serializer\ReflectionSerializer\ReflectionSerializer\obj\Debug\net9.0\ReflectionSerializer.pdb
+C:\Nastya\MyProjects\reflection-serializer\ReflectionSerializer\ReflectionSerializer\obj\Debug\net9.0\ReflectionSerializer.genruntimeconfig.cache
+C:\Nastya\MyProjects\reflection-serializer\ReflectionSerializer\ReflectionSerializer\obj\Debug\net9.0\ref\ReflectionSerializer.dll
+C:\Nastya\MyProjects\reflection-serializer\ReflectionSerializer\ReflectionSerializer\bin\Debug\net9.0\Deserialization\Samples\sampleF.csv
